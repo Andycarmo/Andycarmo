@@ -1,15 +1,16 @@
-### Hi there 👋
+###           Hi there 👋
 
 <!--# Hello World!-->
 
 My name is Andres, and here are a few things I'm working on:
 
 - 🔭 I’m currently working on WebcamWebPage
+- 🤔 I’m looking for help with AudioTalk programs
 - 📫 How to reach me: ancarmonach@gmail.com
 <!--- Web Page creator
 - Java programs
 - New coding-->
-I **love** nerding out about creative coding, so don't hesitate to reach out!
+I **love** to learn more code, so don't hesitate to reach out!
 
 <!--
 **Andycarmo/Andycarmo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
