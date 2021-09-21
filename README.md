@@ -4,10 +4,11 @@
 
 My name is Andres, and here are a few things I'm working on:
 
-- Web Page creator
+- 🔭 I’m currently working on WebcamWebPage
+- 📫 How to reach me: ancarmonach@gmail.com
+<!--- Web Page creator
 - Java programs
-- New coding
-
+- New coding-->
 I **love** nerding out about creative coding, so don't hesitate to reach out!
 
 <!--
