@@ -2,7 +2,7 @@
 
 <!--# Hello World!-->
 
-[![Twitter](https://img.shields.io/twitter/url?logo=Twitter&style=plastic&url=https%3A%2F%2Ftwitter.com%2FAndyCarmoX)](https://twitter.com/Andycarmo)
+[![Twitter](https://img.shields.io/twitter/url?logo=Twitter&style=plastic&url=https%3A%2F%2Ftwitter.com%2FAndyCarmoX)](https://twitter.com/AndycarmoX)
 
 My name is Andres, and here are a few things I'm working on:
 
