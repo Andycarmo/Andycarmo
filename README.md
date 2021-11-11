@@ -2,7 +2,7 @@
 
 <!--# Hello World!-->
 
-[![Twitter](https://img.shields.io/twitter/url?logo=Twitter&style=plastic&url=https%3A%2F%2Ftwitter.com%2FAndyCarmoX)](https://twitter.com/AndycarmoX)
+
 
 My name is Andres, and here are a few things I'm working on:
 
@@ -14,6 +14,7 @@ My name is Andres, and here are a few things I'm working on:
 - New coding-->
 I **love** to learn more code, so don't hesitate to reach out!
 
+[![Twitter](https://img.shields.io/twitter/url?logo=Twitter&url=https%3A%2F%2Ftwitter.com%2FAndyCarmoX)](https://twitter.com/AndycarmoX)
 <!--
 **Andycarmo/Andycarmo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
